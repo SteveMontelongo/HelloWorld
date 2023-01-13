@@ -18,18 +18,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not encounter any major challenges creating this application. Since this is my first time developing in Android Studio, I had to research walkthroughs and documentation for the fundamentals such as syntax, file structure, and connecting the application with a remote repository (GIT). 
 
 ## License
 
